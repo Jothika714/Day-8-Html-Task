@@ -1,0 +1,29 @@
+body {
+  background-image: url(https://t4.ftcdn.net/jpg/01/07/51/65/360_F_107516556_UoIF0bgG8xpRWn1azvYofuRUTa0RQ5Rk.jpg);
+ 
+}
+.first {
+  background-color: rgb(166, 231, 164);
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/139/422/448/love-wallpaper-preview.jpg);
+  height: 500px;
+  width: 900px;
+  border: 2;
+}
+table,
+td {
+  background-color: burlywood;
+  text-align: center;
+  height: 60px;
+  width: 600px;
+  border: 3px solid black;
+  border-collapse: collapse;
+  color: rgb(90, 3, 3);
+  margin-left: 400px;
+  margin-top: 100px;
+}
+caption {
+  font-size: xx-large;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
+}

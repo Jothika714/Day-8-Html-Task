@@ -1,0 +1,18 @@
+body{
+background-color: khaki;
+color: brown;
+}
+
+div{
+    background-color: chartreuse;
+    color: blue;
+}
+span{
+    background-color: coral;
+    color: darkblue;
+}
+label{
+
+    color: crimson;
+
+}
